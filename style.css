@@ -27,7 +27,7 @@ body {
   box-shadow: 0 10px 20px rgba(0,0,0,0.05);
 
   /* Background image */
-  background-image: url('images/133735775234212981.jpg');
+  background-image: url('133735775234212981.jpg');
   background-size: cover;       /* Make image cover entire area */
   background-position: center;  /* Center the image */
   background-repeat: no-repeat; /* Prevent tiling */
